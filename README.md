@@ -2,7 +2,7 @@
 ---
 **Welcome to my site**
 
-**I am *Johni Thomas F. Amador***
+**I am *Uno Amador***
 ---
 ***"Music Is my World"***
 
@@ -33,3 +33,7 @@ Favorite Album
 6. `SMITHEREENS`
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2hEnymoejldpuxSdTnkard?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+
